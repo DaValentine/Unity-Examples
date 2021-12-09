@@ -20,6 +20,7 @@ public class SciptableObjectExample : ScriptableObject
     public string itemID;
     public string itemName;
     public string itemcost;
+    public TypeOf typeOf;
     public bool isRare;
 
 }
